@@ -10,6 +10,7 @@
     }
   ],
   "dependencies": {
+    "minidom": "^0.1.0"
   },
   "keywords": [
     "blog",
